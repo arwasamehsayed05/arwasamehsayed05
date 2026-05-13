@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad,FFD700&height=200&section=header&text=Arwa%20Sameh&fontSize=60&fontColor=FFD700&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%7C%20Embedded%20Systems%20Developer&descColor=ffffff&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Arwa%20Sameh&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=38&color=0:6a0dad,100:FFD700)
 
 </div>
 
