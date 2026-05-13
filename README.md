@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=650&lines=âœ¦+1st+Year+CommInfo+Engineering+Student+âœ¦;âœ¦+Cloud+%7C+DevOps+%7C+Embedded+Systems+âœ¦;âœ¦+Building+Bridges+from+Arduino+to+the+Cloud+âœ¦;âœ¦+Zewail+City+of+Science+%26+Technology+âœ¦" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=650&lines=✦+1st+Year+CommInfo+Engineering+Student+✦;✦+Cloud+%7C+DevOps+%7C+Embedded+Systems+✦;✦+Building+Bridges+from+Arduino+to+the+Cloud+✦;✦+Zewail+City+of+Science+%26+Technology+✦" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### â—ˆ &nbsp; A B O U T &nbsp; M E &nbsp; â—ˆ
+### ◈ &nbsp; A B O U T &nbsp; M E &nbsp; ◈
 
 </div>
 
@@ -28,20 +28,20 @@
 
 ```python
 #!/usr/bin/env python3
-# â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-#              ARWA SAMEH â€” PROFILE.PY
-# â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#              ARWA SAMEH — PROFILE.PY
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 profile = {
     "name"        : "Arwa Sameh",
-    "university"  : "Zewail City of Science & Technology ðŸ›ï¸",
-    "degree"      : "Communication & Information Engineering â€” Year 1",
-    "role"        : "DevOps / Cloud Engineer  âœ¦  Embedded Systems Developer",
+    "university"  : "Zewail City of Science & Technology 🏛️",
+    "degree"      : "Communication & Information Engineering — Year 1",
+    "role"        : "DevOps / Cloud Engineer  ✦  Embedded Systems Developer",
     "platforms"   : ["Arduino IDE", "ESP8266 / ESP32", "ThingSpeak IoT", "AWS / Azure"],
-    "languages"   : ["Python ðŸ", "C# / .NET âš™ï¸", "C++ ðŸ’»", "Arduino C ðŸ”Œ"],
-    "building"    : "Bridges between hardware and the cloud â˜ï¸",
-    "fun_fact"    : "I debug hardware at 2am and blame the compiler ðŸ˜…",
-    "motto"       : "Any sufficiently advanced technology is indistinguishable from magic âœ¨"
+    "languages"   : ["Python 🐍", "C# / .NET ⚙️", "C++ 💻", "Arduino C 🔌"],
+    "building"    : "Bridges between hardware and the cloud ☁️",
+    "fun_fact"    : "I debug hardware at 2am and blame the compiler 😅",
+    "motto"       : "Any sufficiently advanced technology is indistinguishable from magic ✨"
 }
 ```
 
@@ -51,20 +51,20 @@ profile = {
 
 <div align="center">
 
-### â—ˆ &nbsp; T E C H &nbsp; S T A C K &nbsp; â—ˆ
+### ◈ &nbsp; T E C H &nbsp; S T A C K &nbsp; ◈
 
 </div>
 
 <br/>
 
-**âš¡ Languages**
+**⚡ Languages**
 
 ![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=FFD700)
 ![C++](https://img.shields.io/badge/C++-1a0533?style=for-the-badge&logo=cplusplus&logoColor=FFD700)
 ![C#](https://img.shields.io/badge/C%23_.NET-1a0533?style=for-the-badge&logo=dotnet&logoColor=FFD700)
 ![Arduino](https://img.shields.io/badge/Arduino_C-1a0533?style=for-the-badge&logo=arduino&logoColor=FFD700)
 
-**â˜ï¸ Cloud & DevOps**
+**☁️ Cloud & DevOps**
 
 ![Linux](https://img.shields.io/badge/Linux-2d0a5e?style=for-the-badge&logo=linux&logoColor=FFD700)
 ![Docker](https://img.shields.io/badge/Docker-2d0a5e?style=for-the-badge&logo=docker&logoColor=FFD700)
@@ -72,13 +72,13 @@ profile = {
 ![AWS](https://img.shields.io/badge/AWS-2d0a5e?style=for-the-badge&logo=amazonaws&logoColor=FFD700)
 ![Azure](https://img.shields.io/badge/Azure-2d0a5e?style=for-the-badge&logo=microsoftazure&logoColor=FFD700)
 
-**ðŸ“Ÿ Embedded & IoT**
+**📟 Embedded & IoT**
 
 ![Arduino](https://img.shields.io/badge/Arduino-3d0080?style=for-the-badge&logo=arduino&logoColor=FFD700)
 ![ESP32](https://img.shields.io/badge/ESP32-3d0080?style=for-the-badge&logo=espressif&logoColor=FFD700)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-3d0080?style=for-the-badge&logo=mathworks&logoColor=FFD700)
 
-**ðŸ“± Mobile & Games**
+**📱 Mobile & Games**
 
 ![Android](https://img.shields.io/badge/Android-1a0533?style=for-the-badge&logo=android&logoColor=FFD700)
 ![Unity](https://img.shields.io/badge/Unity-1a0533?style=for-the-badge&logo=unity&logoColor=FFD700)
@@ -89,7 +89,7 @@ profile = {
 
 <div align="center">
 
-### â—ˆ &nbsp; P R O J E C T S &nbsp; â—ˆ
+### ◈ &nbsp; P R O J E C T S &nbsp; ◈
 
 </div>
 
@@ -99,10 +99,10 @@ profile = {
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| ðŸ‘‘ | **Solar Panel Monitor** | Arduino-based solar panel system with real-time monitoring via ThingSpeak IoT dashboard | Arduino Â· C++ Â· ThingSpeak |
-| ðŸ  | **Smart Home App** | Mobile application for smart home system monitoring & control | Android Â· .NET MAUI |
-| ðŸ | **Snake Game** | Classic snake game built from scratch | Python |
-| ðŸŒ¾ | **Farm Frenzy** | Farm simulation game with full game mechanics | C++ |
+| 👑 | **Solar Panel Monitor** | Arduino-based solar panel system with real-time monitoring via ThingSpeak IoT dashboard | Arduino · C++ · ThingSpeak |
+| 🏠 | **Smart Home App** | Mobile application for smart home system monitoring & control | Android · .NET MAUI |
+| 🐍 | **Snake Game** | Classic snake game built from scratch | Python |
+| 🌾 | **Farm Frenzy** | Farm simulation game with full game mechanics | C++ |
 
 </div>
 
@@ -112,7 +112,7 @@ profile = {
 
 <div align="center">
 
-### â—ˆ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; â—ˆ
+### ◈ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ◈
 
 </div>
 
@@ -138,7 +138,7 @@ profile = {
 
 <div align="center">
 
-### â—ˆ &nbsp; B E Y O N D &nbsp; T H E &nbsp; C O D E &nbsp; â—ˆ
+### ◈ &nbsp; B E Y O N D &nbsp; T H E &nbsp; C O D E &nbsp; ◈
 
 </div>
 
@@ -146,9 +146,9 @@ profile = {
 
 <div align="center">
 
-ðŸŽ® &nbsp; **Gaming** â€” Competitive & story-driven, always in &nbsp; Â· &nbsp; ðŸ‹ï¸ **Fitness** â€” Gym is my second debugging session
+🎮 &nbsp; **Gaming** — Competitive & story-driven, always in &nbsp; · &nbsp; 🏋️ **Fitness** — Gym is my second debugging session
 
-ðŸ“– &nbsp; **Reading** â€” Tech, sci-fi & anything mind-expanding &nbsp; Â· &nbsp; âœˆï¸ **Travel** â€” New cities, new perspectives
+📖 &nbsp; **Reading** — Tech, sci-fi & anything mind-expanding &nbsp; · &nbsp; ✈️ **Travel** — New cities, new perspectives
 
 </div>
 
@@ -158,7 +158,7 @@ profile = {
 
 <div align="center">
 
-### â—ˆ &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; â—ˆ
+### ◈ &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; ◈
 
 <br/>
 
