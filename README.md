@@ -114,25 +114,17 @@ profile = {
 
 ### &diams;&nbsp; G I T H U B &nbsp;S T A T S &nbsp;&diams;
 
+
+<div align="center">
+
+![Top Languages](https://img.shields.io/badge/Python-Top%20Language-FFD700?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Embedded-Developer-A855F7?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/Cloud-DevOps-6A0DAD?style=for-the-badge)
+
 </div>
 
 <br/>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arwasamehsayed05&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=FFD700&icon_color=A855F7&text_color=ffffff&bg_color=0d0021" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasamehsayed05&layout=compact&theme=midnight-purple&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d0021" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arwasamehsayed05&theme=midnight-purple&hide_border=true&background=0d0021&ring=FFD700&fire=A855F7&currStreakLabel=FFD700&sideLabels=A855F7" />
-
-</div>
-
-<br/>
 
 ---
 
