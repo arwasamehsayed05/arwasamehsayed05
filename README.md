@@ -1,116 +1,173 @@
 <div align="center">
 
-# 👋 Hey there, I'm Arwa Sameh
-
-### 🛰️ Cloud & DevOps Engineer · 📡 Embedded Systems Tinkerer ·  Artist
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=1st+Year+CommInfo+Engineering+Student;Cloud+%7C+DevOps+%7C+Embedded+Systems;Building+things+that+connect+the+world;from+Arduino+to+the+Cloud+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Arwa%20Sameh&fontSize=60&fontColor=FFD700&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Embedded%20Systems%20Dev&descColor=D4A8FF&descAlignY=58&animation=fadeIn" />
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=650&lines=âœ¦+1st+Year+CommInfo+Engineering+Student+âœ¦;âœ¦+Cloud+%7C+DevOps+%7C+Embedded+Systems+âœ¦;âœ¦+Building+Bridges+from+Arduino+to+the+Cloud+âœ¦;âœ¦+Zewail+City+of+Science+%26+Technology+âœ¦" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=arwasamehsayed05&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/arwasamehsayed05)
+
+</div>
+
+<br/>
+
 ---
 
-## 🧭 About Me
+<div align="center">
+
+### â—ˆ &nbsp; A B O U T &nbsp; M E &nbsp; â—ˆ
+
+</div>
+
+<br/>
 
 ```python
+#!/usr/bin/env python3
+# â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+#              ARWA SAMEH â€” PROFILE.PY
+# â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+
 profile = {
-    "name":        "Arwa Sameh",
-    "degree":      "Communication & Information Engineering — Year 1",
-    "role":        "DevOps / Cloud Engineer + Embedded Systems Dev",
-    "platforms":   ["Arduino", "ESP8266 / ESP32", "ThingSpeak", "AWS / Azure"],
-    "languages":   ["Python 🐍", "C# / .NET ⚙️", "C++ 💻", "Arduino C"],
-    "currently":   "Bridging the gap between hardware and the cloud ☁️",
-    "fun_fact":    "I debug hardware at 2am and blame the compiler 😅"
+    "name"        : "Arwa Sameh",
+    "university"  : "Zewail City of Science & Technology ðŸ›ï¸",
+    "degree"      : "Communication & Information Engineering â€” Year 1",
+    "role"        : "DevOps / Cloud Engineer  âœ¦  Embedded Systems Developer",
+    "platforms"   : ["Arduino IDE", "ESP8266 / ESP32", "ThingSpeak IoT", "AWS / Azure"],
+    "languages"   : ["Python ðŸ", "C# / .NET âš™ï¸", "C++ ðŸ’»", "Arduino C ðŸ”Œ"],
+    "building"    : "Bridges between hardware and the cloud â˜ï¸",
+    "fun_fact"    : "I debug hardware at 2am and blame the compiler ðŸ˜…",
+    "motto"       : "Any sufficiently advanced technology is indistinguishable from magic âœ¨"
 }
 ```
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### ☁️ Cloud & DevOps
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 📟 Embedded Systems & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 📱 Mobile & Apps
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<br/>
 
 ---
-
-## 🚀 Standout Projects
-
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 🤖 | **ESP IoT Dashboard** | Real-time sensor monitoring with cloud sync via ThingSpeak | ESP32, C++, Python |
-| 📱 | **Mobile App** | [Brief description] | Android / .NET MAUI |
-| 🎮 | **Game Project** | [Brief description] | Unity / C# |
-| 🔌 | **Arduino Automation** | [Brief description] | Arduino, C++ |
-
----
-
-## 📚 Currently Learning
-
-- 🔭 Communication & Information Engineering fundamentals
-- ☁️ Cloud infrastructure & DevOps pipelines
-- 📡 IoT architecture — connecting embedded devices to the cloud
-- 🤖 Exploring AI/ML for sensor data analysis
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arwasamehsayed05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasamehsayed05&layout=compact&theme=tokyonight&hide_border=true" />
+### â—ˆ &nbsp; T E C H &nbsp; S T A C K &nbsp; â—ˆ
+
+</div>
+
+<br/>
+
+**âš¡ Languages**
+
+![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=FFD700)
+![C++](https://img.shields.io/badge/C++-1a0533?style=for-the-badge&logo=cplusplus&logoColor=FFD700)
+![C#](https://img.shields.io/badge/C%23_.NET-1a0533?style=for-the-badge&logo=dotnet&logoColor=FFD700)
+![Arduino](https://img.shields.io/badge/Arduino_C-1a0533?style=for-the-badge&logo=arduino&logoColor=FFD700)
+
+**â˜ï¸ Cloud & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-2d0a5e?style=for-the-badge&logo=linux&logoColor=FFD700)
+![Docker](https://img.shields.io/badge/Docker-2d0a5e?style=for-the-badge&logo=docker&logoColor=FFD700)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2d0a5e?style=for-the-badge&logo=github-actions&logoColor=FFD700)
+![AWS](https://img.shields.io/badge/AWS-2d0a5e?style=for-the-badge&logo=amazonaws&logoColor=FFD700)
+![Azure](https://img.shields.io/badge/Azure-2d0a5e?style=for-the-badge&logo=microsoftazure&logoColor=FFD700)
+
+**ðŸ“Ÿ Embedded & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-3d0080?style=for-the-badge&logo=arduino&logoColor=FFD700)
+![ESP32](https://img.shields.io/badge/ESP32-3d0080?style=for-the-badge&logo=espressif&logoColor=FFD700)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-3d0080?style=for-the-badge&logo=mathworks&logoColor=FFD700)
+
+**ðŸ“± Mobile & Games**
+
+![Android](https://img.shields.io/badge/Android-1a0533?style=for-the-badge&logo=android&logoColor=FFD700)
+![Unity](https://img.shields.io/badge/Unity-1a0533?style=for-the-badge&logo=unity&logoColor=FFD700)
+
+<br/>
+
+---
+
+<div align="center">
+
+### â—ˆ &nbsp; P R O J E C T S &nbsp; â—ˆ
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| ðŸ‘‘ | **Solar Panel Monitor** | Arduino-based solar panel system with real-time monitoring via ThingSpeak IoT dashboard | Arduino Â· C++ Â· ThingSpeak |
+| ðŸ  | **Smart Home App** | Mobile application for smart home system monitoring & control | Android Â· .NET MAUI |
+| ðŸ | **Snake Game** | Classic snake game built from scratch | Python |
+| ðŸŒ¾ | **Farm Frenzy** | Farm simulation game with full game mechanics | C++ |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### â—ˆ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; â—ˆ
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arwasamehsayed05&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=FFD700&icon_color=D4A8FF&text_color=ffffff&bg_color=0d0021" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwasamehsayed05&layout=compact&theme=midnight-purple&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d0021" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arwasamehsayed05&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=arwasamehsayed05&theme=midnight-purple&hide_border=true&background=0d0021&ring=FFD700&fire=D4A8FF&currStreakLabel=FFD700&sideLabels=D4A8FF" />
 
 </div>
 
----
-
-## 🎮 Beyond the Code
-
-When I'm not flashing firmware or spinning up containers, you'll find me:
-
-- 🎮 **Gaming** — competitive or story-driven, always in
-- 🏋️ **Lifting & training** — gym is my second debugging session
-- 📖 **Reading** — tech papers, sci-fi, anything that stretches the mind
-- ✈️ **Travelling** — new cities, new perspectives, new coffee shops to code from
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arwasamehsayed05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s-arwa.elsayed@zewailcity.edu.eg)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arwasamehsayed05)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-*"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
+### â—ˆ &nbsp; B E Y O N D &nbsp; T H E &nbsp; C O D E &nbsp; â—ˆ
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arwasamehsayed05.arwasamehsayed05)
+</div>
+
+<br/>
+
+<div align="center">
+
+ðŸŽ® &nbsp; **Gaming** â€” Competitive & story-driven, always in &nbsp; Â· &nbsp; ðŸ‹ï¸ **Fitness** â€” Gym is my second debugging session
+
+ðŸ“– &nbsp; **Reading** â€” Tech, sci-fi & anything mind-expanding &nbsp; Â· &nbsp; âœˆï¸ **Travel** â€” New cities, new perspectives
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### â—ˆ &nbsp; L E T ' S &nbsp; C O N N E C T &nbsp; â—ˆ
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/arwasamehsayed05)
+[![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:s-arwa.elsayed@zewailcity.edu.eg)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/arwasamehsayed05)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
 
 </div>
